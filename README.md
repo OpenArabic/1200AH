@@ -1,11 +1,11 @@
-# 1200AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
+# 1200AH [[ [Re]generated on 2016-04-10 (17:13:59) ]]
 
-* `1101MuhammadCaliArdabili.JamicRuwat (TAGS: ...,SHC,PPE)`
-* `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: ...,PPE)`
-* `1119IbnMacsum.SulafaCasr (TAGS: ...,BIO,PPE)`
-* `1120CaliKhanMadani.DarajatRafica (TAGS: SHC,...,PPE)`
-* `1126MuhammadHanbali.Mashyakha (TAGS: ...,PPE)`
-* `1147CabdAllahSancani.TarikhYaman (TAGS: ...,PPE)`
-* `1153IbnKannan.YawmiyyatShamiyya (TAGS: ...,PPE)`
-* `1175AhmadBudayri.HawadithDimashq (TAGS: ...,PPE)`
-* `1175MuhammadKarabisi.IklilManhaj (TAGS: ...,BIO,SHC,PPE)`
+* `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
+* `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: CENT1200,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
+* `1119IbnMacsum.SulafaCasr (TAGS: BIO,CENT1200,PPE,_TABAQAT,_TARAJIM,_TARIKH)`
+* `1120CaliKhanMadani.DarajatRafica (TAGS: CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
+* `1126MuhammadHanbali.Mashyakha (TAGS: CENT1200,PPE,_TABAQAT,_TARAJIM)`
+* `1147CabdAllahSancani.TarikhYaman (TAGS: CENT1200,PPE,_BULDAN,_TARIKH)`
+* `1153IbnKannan.YawmiyyatShamiyya (TAGS: CENT1200,PPE,_BULDAN,_TARIKH)`
+* `1175AhmadBudayri.HawadithDimashq (TAGS: CENT1200,PPE,_BULDAN,_TARIKH)`
+* `1175MuhammadKarabisi.IklilManhaj (TAGS: BIO,CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
