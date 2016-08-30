@@ -1,11 +1,11 @@
-# Status Report
+## Status Report
  
-* 50 titles;
-* 28,293,672 words;
-* 130,688 logical units;
-* 108,771 bios.
+* 54 titles
+* 28,404,088 words
+* 132,632 logical units
+* 109,903 bios
 
-## `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
+### `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 4,081 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 10,845 bios)`
@@ -14,7 +14,7 @@
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 9,425 bios)`
 
 
-## `*.completed` (41 titles: 19,238,656 words; 84,474 units; 72,439 bios)
+### `*.completed` (45 titles: 19,349,072 words; 86,418 units; 73,571 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 128 bios)`
@@ -55,11 +55,15 @@
 - `0658IbnAbbar.TuhfaQadim (28,899 words; 114 units; 113 bios)`
 - `0685IbnCibri.TarikhMukhtasarDuwal (97,240 words; 234 units; 0 bios)`
 - `0748Dhahabi.CibarFiKhabar (270,948 words; 868 units; 0 bios)`
+- `0748Dhahabi.Culuww (51,237 words; 777 units; 155 bios)`
+- `0748Dhahabi.DhaylCibar (37,477 words; 161 units; 0 bios)`
+- `0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 576 bios)`
+- `0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 401 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (180,888 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (360,474 words; 1,658 units; 1,614 bios)`
 
 
-## `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
+### `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
@@ -69,39 +73,25 @@
 
 
 
-# 1200AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]
+# 1200AH [[ [Re]generated on 2016-08-30 (16:30:04) ]]
 
-* `1101MuhammadCaliArdabili.JamicRuwat `
-    * TAGS: CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM
-* `1111MuhammadAminMuhibbi.KhulasaAthr `
-    * TAGS: CENT1200,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
-* `1119IbnMacsum.SulafaCasr `
-    * TAGS: BIO,CENT1200,PPE,_TABAQAT,_TARAJIM,_TARIKH
-* `1120CaliKhanMadani.DarajatRafica `
-    * TAGS: CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM
-* `1126MuhammadHanbali.Mashyakha `
-    * TAGS: CENT1200,PPE,_TABAQAT,_TARAJIM
-* `1147CabdAllahSancani.TarikhYaman `
-    * TAGS: CENT1200,PPE,_BULDAN,_TARIKH
-* `1153IbnKannan.YawmiyyatShamiyya `
-    * TAGS: CENT1200,PPE,_BULDAN,_TARIKH
-* `1167IbnCabrRahmanGhazzi.DiwanIslam `
-    * TAGS: CENT1200,_CUTHMANI,_SHICR,_TABAQAT,_TARAJIM
-* `1172IbnKhalifaMasakini.Fahrasa `
-    * TAGS: CENT1200,_ADILLA,_FAHARIS,_KUTUB
-* `1174AbuBarakatSuwaydi.NafhaMiskiya `
-    * TAGS: CENT1200,_BULDAN,_JUGHRAFIYA,_RIHLAT
-* `1175AhmadBudayri.HawadithDimashq `
-    * TAGS: CENT1200,PPE,_BULDAN,_TARIKH
-* `1175MuhammadKarabisi.IklilManhaj `
-    * TAGS: BIO,CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM
-* `1187SulaymanMahasini.HululTacab `
-    * TAGS: CENT1200,_TARIKH
-* `1195CabdRahmanAnsari.Tuhfa `
-    * TAGS: CENT1200,_ANSAB,_MISC
+* `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1119IbnMacsum.SulafaCasr (TAGS: BIO, CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `1120CaliKhanMadani.DarajatRafica (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1126MuhammadHanbali.Mashyakha (TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM)`
+* `1147CabdAllahSancani.TarikhYaman (TAGS: CENT1200, PPE, _BULDAN, _TARIKH)`
+* `1153IbnKannan.YawmiyyatShamiyya (TAGS: CENT1200, PPE, _BULDAN, _TARIKH)`
+* `1167IbnCabrRahmanGhazzi.DiwanIslam (TAGS: CENT1200, _SHICR_CUTHMANI, _SHICR, _TABAQAT, _TARAJIM)`
+* `1172IbnKhalifaMasakini.Fahrasa (TAGS: CENT1200, _ADILLA, _FAHARIS, _KUTUB)`
+* `1174AbuBarakatSuwaydi.NafhaMiskiya (TAGS: CENT1200, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `1175AhmadBudayri.HawadithDimashq (TAGS: CENT1200, PPE, _BULDAN, _TARIKH)`
+* `1175MuhammadKarabisi.IklilManhaj (TAGS: BIO, CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1187SulaymanMahasini.HululTacab (TAGS: CENT1200, _TARIKH)`
+* `1195CabdRahmanAnsari.Tuhfa (TAGS: CENT1200, _ANSAB, _MISC)`
 
 
-# General description of the workflow with mARkdown
+## General description of the workflow with mARkdown
 
 0. Have Github installed and setup on your computer.
 	1. Create a github account if you do not have one
