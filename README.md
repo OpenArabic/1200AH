@@ -106,7 +106,7 @@
 
 
 
-# 1200AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
+# 1200AH [[ [Re]generated on 2016-10-17 (13:25:40) ]]
 
 * `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1107HashimBahrani.GhayatMaram (TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS)`
@@ -116,7 +116,9 @@
 * `1122MuhammadZarqani.SharhCalaMawahib (TAGS: CENT1200, PPE, _SHAMAIL, _SIRA)`
 * `1122MuhammadZarqani.SharhCalaMuwatta (TAGS: CENT1200, _FIQH, _HADITH, _MALIKI, _SHARH, _TARAJIM)`
 * `1126MuhammadHanbali.Mashyakha (TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM)`
+* `1127IbnMustafaIstanbuli.RuhBayan (TAGS: CENT1200, _TAFSIR)`
 * `1147CabdAllahSancani.TarikhYaman (TAGS: CENT1200, PPE, _BULDAN, _TARIKH)`
+* `1147IbnSharafDinKhalili.FatawaKhalili (TAGS: CENT1200, _FATAWA)`
 * `1153IbnKannan.YawmiyyatShamiyya (TAGS: CENT1200, PPE, _BULDAN, _TARIKH)`
 * `1167IbnCabrRahmanGhazzi.DiwanIslam (TAGS: CENT1200, _SHICR_CUTHMANI, _SHICR, _TABAQAT, _TARAJIM)`
 * `1172IbnKhalifaMasakini.Fahrasa (TAGS: CENT1200, _ADILLA, _FAHARIS, _KUTUB)`
