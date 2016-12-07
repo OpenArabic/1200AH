@@ -138,11 +138,12 @@
 
 
 
-# 1200AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
+# 1200AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
 
 * `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1107HashimBahrani.GhayatMaram (TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS)`
 * `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1119IbnMacsum.AnwarRabic (TAGS: CENT1200, _ADAB, _BALAGHA)`
 * `1119IbnMacsum.SulafaCasr (TAGS: BIO, CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `1120CaliKhanMadani.DarajatRafica (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1122MuhammadZarqani.SharhCalaMawahib (TAGS: CENT1200, PPE, _SHAMAIL, _SIRA)`
