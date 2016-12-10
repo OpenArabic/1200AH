@@ -138,7 +138,7 @@
 
 
 
-# 1200AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
+# 1200AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
 
 * `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1107HashimBahrani.GhayatMaram (TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS)`
@@ -158,6 +158,19 @@
 * `1174AbuBarakatSuwaydi.NafhaMiskiya (TAGS: CENT1200, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1175AhmadBudayri.HawadithDimashq (TAGS: CENT1200, PPE, _BULDAN, _TARIKH)`
 * `1175MuhammadKarabisi.IklilManhaj (TAGS: BIO, CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1182IbnIsmacilSancani.IftiraqUmma (TAGS: CENT1200, _CAQAID, _HADITH, _MILAL, _SUNNI)`
+* `1182IbnIsmacilSancani.InsafFiHaqiqatAwliya (TAGS: CENT1200, _BUHUTH, _CAQAID, _MASAIL, _MILAL)`
+* `1182IbnIsmacilSancani.IrshadNuqqad (TAGS: CENT1200, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
+* `1182IbnIsmacilSancani.IsbalMatar (TAGS: CENT1200, _CULUM, _HADITH)`
+* `1182IbnIsmacilSancani.IstifaAqwal (TAGS: CENT1200, _BUHUTH, _MASAIL)`
+* `1182IbnIsmacilSancani.RafcAstar (TAGS: CENT1200, _CAQAID)`
+* `1182IbnIsmacilSancani.RafcAstar (TAGS: CENT1200, _CAQAID, _HADITH, _MILAL, _SUNNI)`
+* `1182IbnIsmacilSancani.SubulSalam (TAGS: CENT0900, CENT1200, _CHRONOMULTIPLE, _FIQH, _HADITH, _MUSTAQILLA, _SHARH, _USUL)`
+* `1182IbnIsmacilSancani.TathirIctiqad (TAGS: CENT1200, _CAQAID, _MILAL)`
+* `1182IbnIsmacilSancani.TathirIctiqad (TAGS: _CAQAID, _CENT00NO)`
+* `1182IbnIsmacilSancani.TawdihAfkar (TAGS: CENT1200, _CULUM, _HADITH, _MUSTALAHAT)`
+* `1182IbnIsmacilSancani.ThamaratNazar (TAGS: CENT1200, _CULUM, _HADITH, _MUSTALAHAT)`
+* `1182IbnIsmacilSancani.UsulFiqh (TAGS: CENT1200, _FIQH, _QAWACID, _USUL)`
 * `1187SulaymanMahasini.HululTacab (TAGS: CENT1200, _TARIKH)`
 * `1195CabdRahmanAnsari.Tuhfa (TAGS: CENT1200, _ANSAB, _MISC)`
 
