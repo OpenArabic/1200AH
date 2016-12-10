@@ -138,9 +138,11 @@
 
 
 
-# 1200AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
+# 1200AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
 
 * `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1102NurDinYusi.MuhadaratFiLugha (TAGS: CENT1200, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `1102NurDinYusi.ZahrAkam (TAGS: CENT1200, _ADAB, _ADAB, _AMTHAL, _BALAGHA)`
 * `1107HashimBahrani.GhayatMaram (TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS)`
 * `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `1119IbnMacsum.AnwarRabic (TAGS: CENT1200, _ADAB, _BALAGHA)`
@@ -172,6 +174,9 @@
 * `1182IbnIsmacilSancani.ThamaratNazar (TAGS: CENT1200, _CULUM, _HADITH, _MUSTALAHAT)`
 * `1182IbnIsmacilSancani.UsulFiqh (TAGS: CENT1200, _FIQH, _QAWACID, _USUL)`
 * `1187SulaymanMahasini.HululTacab (TAGS: CENT1200, _TARIKH)`
+* `1188ShamsDinSaffarini.DurraMudiyya (TAGS: CENT1200, _CAQAID, _MILAL)`
+* `1188ShamsDinSaffarini.GhadhaAlbab (TAGS: CENT1200, _ADAB, _ADHKAR, _FIQH, _HANBALI, _RAQAIQ)`
+* `1188ShamsDinSaffarini.LawamicAnwar (TAGS: CENT1200, _CAQAID)`
 * `1195CabdRahmanAnsari.Tuhfa (TAGS: CENT1200, _ANSAB, _MISC)`
 
 
