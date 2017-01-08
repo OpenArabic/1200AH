@@ -140,12 +140,16 @@
 
 
 
-# 1200AH [[ [Re]generated on 2017-01-04 (16:16:12) ]]
+# 1200AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
 
 * `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1102NurDinYusi.MuhadaratFiLugha (TAGS: CENT1200, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
 * `1102NurDinYusi.ZahrAkam (TAGS: CENT1200, _ADAB, _ADAB, _AMTHAL, _BALAGHA)`
 * `1107HashimBahrani.GhayatMaram (TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS)`
+* `1107HashimBahrani.HilyatAbrar (TAGS: CENT1200, _HADITH, _SHICI)`
+* `1107HashimBahrani.KashfMihimm (TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS)`
+* `1107HashimBahrani.MadinatMacajiz (TAGS: CENT1200, _HADITH, _SHICI)`
+* `1107HashimBahrani.YanabicMacajiz (TAGS: CENT1200, _HADITH, _SHICI)`
 * `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `1119IbnMacsum.AnwarRabic (TAGS: CENT1200, _ADAB, _BALAGHA)`
 * `1119IbnMacsum.SulafaCasr (TAGS: BIO, CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -171,7 +175,7 @@
 * `1182IbnIsmacilSancani.RafcAstar (TAGS: CENT1200, _CAQAID, _HADITH, _MILAL, _SUNNI)`
 * `1182IbnIsmacilSancani.SubulSalam (TAGS: CENT0900, CENT1200, _CHRONOMULTIPLE, _FIQH, _HADITH, _MUSTAQILLA, _SHARH, _USUL)`
 * `1182IbnIsmacilSancani.TathirIctiqad (TAGS: CENT1200, _CAQAID, _MILAL)`
-* `1182IbnIsmacilSancani.TathirIctiqad (TAGS: _CAQAID, _CENT00NO)`
+* `1182IbnIsmacilSancani.TathirIctiqad (TAGS: _CAQAID)`
 * `1182IbnIsmacilSancani.TawdihAfkar (TAGS: CENT1200, _CULUM, _HADITH, _MUSTALAHAT)`
 * `1182IbnIsmacilSancani.ThamaratNazar (TAGS: CENT1200, _CULUM, _HADITH, _MUSTALAHAT)`
 * `1182IbnIsmacilSancani.UsulFiqh (TAGS: CENT1200, _FIQH, _QAWACID, _USUL)`
@@ -179,6 +183,7 @@
 * `1188ShamsDinSaffarini.DurraMudiyya (TAGS: CENT1200, _CAQAID, _MILAL)`
 * `1188ShamsDinSaffarini.GhadhaAlbab (TAGS: CENT1200, _ADAB, _ADHKAR, _FIQH, _HANBALI, _RAQAIQ)`
 * `1188ShamsDinSaffarini.LawamicAnwar (TAGS: CENT1200, _CAQAID)`
+* `1189CaliCadawi.HashiyatCadawi (TAGS: CENT1200, _FIQH, _MALIKI)`
 * `1195CabdRahmanAnsari.Tuhfa (TAGS: CENT1200, _ANSAB, _MISC)`
 
 
